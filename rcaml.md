@@ -20,6 +20,8 @@
 ## An Intelligent system to detect root cause of a failure in manufacturing engineering and operations
 
 - Introduction Table of Contents
+- System Scope
+- FMEA
 - Root Cause Analysis
 - Process Overview
 - Solution Overview
